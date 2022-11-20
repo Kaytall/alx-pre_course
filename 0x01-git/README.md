@@ -1,2 +1,2 @@
 Git folder created
-This folder now has collaborations
+This Folder has collaborators
